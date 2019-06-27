@@ -1,1 +1,1 @@
-# The-Flag
+flag{all_lowercase_letters}
