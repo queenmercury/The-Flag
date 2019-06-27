@@ -1,1 +1,1 @@
-flag{all_lowercase_letters}
+flag{the_queen_flag}
